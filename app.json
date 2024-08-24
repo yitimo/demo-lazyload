@@ -1,0 +1,16 @@
+{
+	"entryPagePath": "pages-subpackage/pkg-a/pages/sub/index",
+  "pages": [
+    "pages/home/index"
+	],
+	"subpackages": [
+		{
+			"name": "pkg-a",
+			"root": "pages-subpackage/pkg-a",
+			"pages": [
+				"pages/sub/index"
+			]
+		}
+	],
+  "lazyCodeLoading": "requiredComponents"
+}

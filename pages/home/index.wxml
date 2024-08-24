@@ -1,0 +1,2 @@
+<import src="../../base.wxml" />
+<template is="tmpl_hello" data="{{root:root}}"/>

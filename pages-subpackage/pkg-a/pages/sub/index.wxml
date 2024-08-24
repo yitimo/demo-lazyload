@@ -1,0 +1,4 @@
+<import src="../../../../base.wxml"/>
+<text>pages-subpackage/pkg-a/pages/sub/index.wxml</text>
+
+<template is="tmpl_hello" data="{{root:root}}" />
